@@ -1,0 +1,19 @@
+{
+  "name": "scaling-eureka",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Holy-Feast/scaling-eureka.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Holy-Feast/scaling-eureka/issues"
+  },
+  "homepage": "https://github.com/Holy-Feast/scaling-eureka#readme"
+}
